@@ -1,0 +1,1 @@
+For this lab, I created a repository, made multiple commits, managed branches, and deployed an HTML file according to the specifications provided. Various actions were performed in the repository to assess my understanding and ability to use Git and Github
